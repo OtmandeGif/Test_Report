@@ -48,7 +48,6 @@ def getSortedIssues(sprint='None',os='None',v='version',u=True,us=True) :
                 if card.Type != 'User Story':
                     if sprint in card.Sprints or sprint==card.Sprints:
                         if card.Swimlane != 'Uncategorized cards':
-                            print(card.id)
                             if type(card.Swimlane)==list:
                                 i=0
                                 for swim in card.Swimlane:
