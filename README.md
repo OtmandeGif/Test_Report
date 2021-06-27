@@ -12,9 +12,7 @@ pip install smplib
 pip install ssl
 
 
-Follow the procedure detailed on the good practices file
-
-Launch Fianl Report Editor
+Launch Final Report Editor
 
 Launch Mail Sender with the correct list of emails
 
