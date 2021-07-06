@@ -1,6 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Software](#software)
 * [Setup](#setup)
 * [Tutorial](#tutorial)
 
@@ -10,7 +10,7 @@ This project contains 3 main files:
 * Mail Sender: Running file which send an automatic mail containing the report
 * Bonnes pratiques procédure de test: Reading file which explains how to proceed with the test procedure, from to beginning of the sprint to the edition of test report and documentation
 	
-## Technologies
+## Software
 This project uses at least Python 3.9.2.
 
 	
