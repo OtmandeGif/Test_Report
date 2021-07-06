@@ -46,7 +46,7 @@ To use this project, you must follow this procedure:
 	* Sprint date : format DD/MM-DD/MM
 	* Os : check IOS or Android 
 	* Version number : example « Version 1.3.5 » (and not Version 1.3.5 (X) or 1.3.5 or 1.3.5 (X))
-	* CUncategorized cards : check « No »
+	* Uncategorized cards : check « No »
 	* Version : Validated or Rejected (or algorithm but it is not functionnal at that point)
 	* Unscheduled cards : cocher « Yes » if you want to add these YouTrack cards
 * Open "Mail Sender" and fill it this way:
