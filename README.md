@@ -8,7 +8,7 @@
 This project contains 3 main files:
 * Final Test Report: Running file which generates a test report
 * Mail Sender: Running file which send an automatic mail containing the report
-* Bonnes pratiques procédure de test: Reading file which explains how to proceed with the test procedure, from to beginning of the sprint to the edition of test report and documentation
+* Bonnes pratiques procédure de test: Reading file which explains how to proceed with the test procedure, from to beginning of the sprint to the edition of the test report and the documentation
 	
 ## Software
 This project uses at least Python 3.9.2.
