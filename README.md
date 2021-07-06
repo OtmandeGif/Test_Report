@@ -18,25 +18,18 @@ To run this report editor, launch the following commands in python console to do
 ```
 $ pip install tkinter
 $ pip install youtrack
-$ pip installrequests
-$ pip install pdfExample
+$ pip install requests
 $ pip install testrail
 $ pip install canvas
 $ pip install reportlab
+```
+
+To run the mail sender, launch the following commands in python console to download the needed libraries:
+
+```
 $ pip install smplib
 $ pip install ssl
 ```
-
-Launch the following commands in python console to download the libraries :
-pip install tkinter
-pip install youtrack
-pip installrequests
-pip install pdfExample
-pip install testrail
-pip install canvas
-pip install reportlab
-pip install smplib
-pip install ssl
 
 
 Launch Final Report Editor
